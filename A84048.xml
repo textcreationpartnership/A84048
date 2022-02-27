@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Epistle to the reader. The end of this print is to present to thy view a most wise and pious speech, spoken to King James the Fifth of Scotland, by a councellor of his; the which having occasioned what is premised to it, I thought fit to let them come hand in hand to thee; ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84048</idno>
+            <idno type="STC">Wing E3168</idno>
+            <idno type="STC">Thomason E828_8</idno>
+            <idno type="STC">ESTC R11847</idno>
+            <idno type="EEBO-CITATION">99859152</idno>
+            <idno type="PROQUEST">99859152</idno>
+            <idno type="VID">111218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E828[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Epistle to the reader. The end of this print is to present to thy view a most wise and pious speech, spoken to King James the Fifth of Scotland, by a councellor of his; the which having occasioned what is premised to it, I thought fit to let them come hand in hand to thee; ...</title>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, printers to His Highness,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLIV. [1654, i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from A1r. Text on A2r commences "It is a principle very incident to the natural desire of men, that whatsoever judgement they are of in things of religion, to wish that all were of the same minde with themselves; ..". The actual epistle begins on C1r: "Sir, amongst the many blessings your subjects enjoy under this your government, ..". It is excerpted from William Drummond's "History of Scotland", p. 210 (cf. B4v).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Feb: 22: 1655", "This hath noe other title".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  V, --  King of Scotland, 1512-1542 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  Modern period, 1485- --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:111218:1" rendition="simple:additions"/>
+            <head>An Epiſtle to the Reader.</head>
+            <p>THe end of this Print is to preſent to thy view a moſt wiſe and pious Speech, ſpoken to King JAMES the Fifth of <hi>Scotland,</hi> by a Coun<g ref="char:EOLhyphen"/>cellor of his; the which having occaſioned what is premiſed to it, I thought fit to let them come hand in hand to thee; If any be offended at Tolleration, I aſſure thee I am as much offended at an impoſing Spirit. Whoſoever abuſeth Liberty, turning it into licentiouſneſs, ſhall bear his own ſhame, as he that ſins becauſe Grace abounds: True Liberty nor Grace are the leſs ſo becauſe thus abuſed, nor the more to be ſtumbled at. The Lord give us all that profeſs the Name of Chriſt, more Love and Patience.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111218:2"/>
+            <pb n="1" facs="tcp:111218:2"/>
+            <p>IT is a Principle very inci<g ref="char:EOLhyphen"/>dent to the natural deſire of men, That whatſoever judgement they are of in things of Religion, to wiſh that all were of the ſame minde with themſelves; which Principle is in it ſelf commendable, pro<g ref="char:EOLhyphen"/>vided that the means by which the ſame is to be brought about be ſuch, as the Word of God warrants and directs, and not ſuch as the frowardneſs and impati<g ref="char:EOLhyphen"/>ence of the dark minde of man ſuggeſts, that is, that the way uſed to bring this to paſs, be by informing of the underſtand<g ref="char:EOLhyphen"/>ing, and ſo perſwading the will, and not by compulſion, impoſition and coertion, which is a practice fitter to be applyed to irrational creatures than to men, who have ingenuity and reaſon, and are able to di<g ref="char:EOLhyphen"/>ſtinguiſh between Liberty and Con<g ref="char:EOLhyphen"/>ſtraint, Freedom and Bondage. What
+<pb n="2" facs="tcp:111218:3"/>the indirect Practices in all Ages have bin under this pretence, and to accompliſh this end, the Papal, Prelatical and Presby<g ref="char:EOLhyphen"/>terial Churches are clear examples; witneſs the Bloody Wars that have been raiſed by the firſt of theſe three, the Maſſacres, the Perſecuting of Chriſtians with Fire and Fagot, the Aſſaſsinations of Kings and other perſons, the Cruelties exerciſed up<g ref="char:EOLhyphen"/>on the poor Indians in <hi>America</hi> and ſuch like; all which are the Sins of that Ro<g ref="char:EOLhyphen"/>miſh Synagogue, foretold and forejudged by the Spirit of God, to have Blood to drink in revenge of the ſame. As for the two latter, though their Principle hath bin the very ſame, yet by the Providence of God, and his reſtraint of their wrath, they have not come to the ſame height of Exe<g ref="char:EOLhyphen"/>cution; yet how natural it hath been to them to Coerce, to Impoſe, to Impriſon, to Baniſh, to deny men their Natural and Civil Rights, for the exerciſe of ſuch a Worſhip as their Light and Conſciences
+<pb n="3" facs="tcp:111218:3"/>lead them unto, is alſo moſt manifeſt. The Biſhops in queen <hi>Marys</hi> time, many of them groaning under Roman perſecu<g ref="char:EOLhyphen"/>tion, waited to be delivered from it, and the Lord vouchſafed them this Mercy; which when they had obtained, they could not afford to the Non conformiſts and other Miniſters, although Presbyters with themſelves, and diſſenting onely in a few Ceremonies, neither ſignificant nor of uſe, but they refuſing to conform were ex<g ref="char:EOLhyphen"/>pelled their Livings, many of them driven to live amongſt the Heathens, &amp; to ſeek for bread in other places, rather then be indul<g ref="char:EOLhyphen"/>ged (though of the ſame Faith with them.) The Presbyterian and Non-conformiſt Miniſters laboring under this, though a leſſer degree of Perſecution then that of <hi>Rome,</hi> (yet ariſing from the ſame Root) were in due time delivered from this yoke of Bondage; which Mercy they were no ſooner arrived at, but having, as they thought by the Magiſtrates power (not
+<pb n="4" facs="tcp:111218:4"/>onely pulled down, but ſhut the door a<g ref="char:EOLhyphen"/>gainſt that Hierarchy from returning any more into this Nation) they alſo, before they had reigned many moneths (after the Example of their Brethren in <hi>Scotland</hi>) ſet themſelves to the ſame courſe and pra<g ref="char:EOLhyphen"/>ctice, ingaging the Civil Magiſtrate to impoſe upon the Conſciences of many Godly men of the ſame Faith alſo with themſelves in all the great Foundations of Faith, perfecuting them with bitter reproa<g ref="char:EOLhyphen"/>ches and imputations of odious Names, not being willing they ſhould live in the Nation, nor enjoy their publique Wor<g ref="char:EOLhyphen"/>ſhip, not liberty to exerciſe the ſame pri<g ref="char:EOLhyphen"/>vately according to their conſciences, but that they ſhould be compelled to come to the place of the publique Worſhip in their ſeveral Pariſhes, as the ſame was ſtated by the Civil Magiſtrate, and framed by their General Aſſembly; ſo that they who a few moneths before grievouſly com<g ref="char:EOLhyphen"/>plained of perſecution under the Prelacy,
+<pb n="5" facs="tcp:111218:4"/>immediately practiced the ſame things with more ſharpneſs and bitterneſs then their Predeceſſors did, breaking that roy<g ref="char:EOLhyphen"/>al Rule, Doing that to others, that they would not ſhould have been done to themſelves; And how active they were during the ſhort time of the Power being in their hands, in putting on the Civil Magiſtrate to make Chains and Fetters to hamper diſſenting Chriſtians, and de<g ref="char:EOLhyphen"/>prive them of their Civil and Spiritual Liberties, is very freſh in the knowledge and memory of all; and how near this Nation was to be ſubjected in all its ho<g ref="char:EOLhyphen"/>nor to <hi>Scotland,</hi> without ſtriking one ſtroke for it, through the Power and Influence theſe men had upon the Parliament, the City of <hi>London,</hi> the then Armies, and the united Power the then Armies, and the united Power the then Commiſsioners of <hi>Scotland</hi> had with the perſons and pla<g ref="char:EOLhyphen"/>ces aforeſaid; and all this in obſervance to, and compliance with the Elder Bro<g ref="char:EOLhyphen"/>ther of <hi>Scotland,</hi> who had chalked out the
+<pb n="6" facs="tcp:111218:5"/>way, and laid down the Patern to which an Engliſh Presbytery might conform, is alſo as generally and well known: it were to be wiſhed, that the other Forms now remaining amongſt us, would throughly ſearch and try their hearts, whether they would not do in like maner if they were in the ſaddle; I think there hath been ground enough given, yea too much (with<g ref="char:EOLhyphen"/>out breach of charity) to judge (at leaſt of ſome of them) that they would; what means elſe the contempt of that liberty the Lord hath given to all Proteſtant Sects now amongſt us? which indeed is ſo great, that no man can ſay a Chriſtian is in dan<g ref="char:EOLhyphen"/>ger of ſuffering in the leaſt for that which is truly matter of Opinion and Conſci<g ref="char:EOLhyphen"/>ence, when Liberty to worſhip after the ſeveral Forms mens Conſciences lead them to, is a free as to go to the Market; What do men mean by the word <hi>Antichri<g ref="char:EOLhyphen"/>ſtian,</hi> ſo liberally beſtowed, and ſo fre<g ref="char:EOLhyphen"/>quently imputed to all, ſave to perſons of
+<pb n="7" facs="tcp:111218:5"/>their own judgement? Are not theſe men too like the Iſraelites eating of quails, whileſt the meat came out of their noſtrils? Are not theſe Arguments and Evidences of Pride and Wantonneſs, and tokens be<g ref="char:EOLhyphen"/>fore-hand what men would do if it were in their power? Is it not enough for all Forms of Proteſtant Profeſsion, and for thoſe that are true and real Chriſtians, that they may ſerve God in holineſs and righ<g ref="char:EOLhyphen"/>teouſneſs without fear? Were it not moſt noble for every Sect to ſwallow up all contention in this, of ſtriving who ſhould moſt grace their Chriſtian Profeſsion and their Form, by out-doing others in a holy, blameleſs, peaceable walking, void of cenſuring, judging, rayling, contriving Diſturbances (all which are the fruits of the fleſh, and are of the devil) and bring<g ref="char:EOLhyphen"/>ing forth the fruits of righteouſneſs which are ſown in peace of them that make peace? ſurely it were: if this were ſo, how would then the Goſpel in the ſeveral
+<pb n="8" facs="tcp:111218:6"/>Forms of it, where Chriſt hath his Lambs and his Sheep, which he will and doth look after, flouriſh? and in ſtead of being a Burthen, and too juſtly an Offence to the World, (through the wrathful and un<g ref="char:EOLhyphen"/>peaceable ſpirit of too many of the Pro<g ref="char:EOLhyphen"/>feſſors thereof) be deſireable, and (as it de<g ref="char:EOLhyphen"/>ſerves in it ſelf) become the glory of all Nations; which although we look for and hope, and know in due time will be ſo, when the more abundant pouring forth of the Spirit ſhall be, yet we alſo know when that time does come, the effect of it will be a glorious union of the People of God, made to be of one ſpirit, by that Spi<g ref="char:EOLhyphen"/>rit that teacheth to hold forth the Chri<g ref="char:EOLhyphen"/>ſtian Profeſsion before all, in Faith and Love. To this end, and as a help there<g ref="char:EOLhyphen"/>unto, and as ſome reproof to our moſt ſhameful and moſt unchriſtian carriage in theſe Lands, is this Preamble written to a Paper herewith printed; which was Counſel long ago given in thoſe dawn<g ref="char:EOLhyphen"/>ings
+<pb n="9" facs="tcp:111218:6"/>of Light, to King <hi>James the</hi> 5<hi rend="sup">th</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> by a perſon who was of his Council, at ſuch time as the Proteſtants were migh<g ref="char:EOLhyphen"/>tily increaſed by the Lord in <hi>Scotland,</hi> and it being under conſideration what was to be done with them, this wholeſom coun<g ref="char:EOLhyphen"/>ſel was given; which the King refuſing, immediately by the Prelates and his Po<g ref="char:EOLhyphen"/>piſh Council, was perſwaded to raiſe a Bloody Inquiſition, and put the ſame in execution, after which he never proſper<g ref="char:EOLhyphen"/>ed; but receiving that moſt miraculous Defeat of his Forces in his Invaſion of <hi>England</hi> at <hi>Sallaway-Moſs,</hi> wherein they threw down their arms, and were vo<g ref="char:EOLhyphen"/>luntarily taken, every Engliſh Soldier gaining three or four priſoners (as the Hiſtorian recordeth) the News whereof no ſooner came to the Kings ears, but that he went home, and after long watch<g ref="char:EOLhyphen"/>ings, continual cares and paſsions, ab<g ref="char:EOLhyphen"/>ſtinence from food and recreation, had ſo extenuated his Body, that pierced with
+<pb n="10" facs="tcp:111218:7"/>grief, anguiſh, impatience and deſpair, he remained fixed to his Bed, and refu<g ref="char:EOLhyphen"/>ſing to give acceſs to his Nobility and Domeſtique Servants, he ſo miſerably dyed.</p>
+            <p>That moſt excellent Speech (worthy to be written with the claw of an Ada<g ref="char:EOLhyphen"/>mant) taken out of the Scotiſh Hiſtory, Entituled, The Hiſtory of SCOTLAND, from the Year 1423. until the Year 1542. By <hi>William Drummond</hi> of <hi>Hauthorden,</hi> page 210. is as followeth:</p>
+            <pb n="11" facs="tcp:111218:7"/>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>Amongſt the many bleſsings your Subjects enjoy under this your Government, this is not the leaſt, that for the weal of your Majeſty, and the publique good of the Kingdom, the meaneſt of your Subjects may freely open his mind, and declare his opinion unto you his Soveraign.</p>
+               <p>And if ever there was a time, in which grave, good and ſound counſel ſhould be delivered to your Majeſty, it is this, and the difficulties of the Com<g ref="char:EOLhyphen"/>mon-Wealth do now require it. Nor ever, in matters of Advice and Conſultation, can we imbrace and follow what is moſt reaſonable, and what, according to Laws, Juſtice, and Equity, ſhould be, but what neceſsity driveth us unto, and what is moſt conveni<g ref="char:EOLhyphen"/>ent for the preſent time to be, and what we may well and fairly accompliſh and bring to paſs.</p>
+               <p>The Eſtate of your Kingdome is troubled w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ih di<g ref="char:EOLhyphen"/>verſity of opinions concerning Religion; It is to be wiſhed, that the one onely true Religion were in the hearts of all your Subjects, (ſince diverſity of opi<g ref="char:EOLhyphen"/>nions of Religion, and Hereſies, are the very puniſh<g ref="char:EOLhyphen"/>ment of God Almighty upon men, for their horrible Vices and roaring ſins. And when men forſake his fear and true obedience, God abandoneth them to their own opinions and fantaſies in Religion; out if which ariſe, Partialities, Factions, Diviſions, Strife, In<g ref="char:EOLhyphen"/>teſtine Diſcords, which burſt forth into Civil War, and in ſhort time bring Kingdomes and Common-wealths to their laſt periods) But matters ariſing to ſuch a beight and diſorder, as by all appearance, they
+<pb n="12" facs="tcp:111218:8"/>are like to advance in this Kingdome, the num<g ref="char:EOLhyphen"/>ber of the Sectaries daily increaſing, without diſſem<g ref="char:EOLhyphen"/>bling my thoughts to your Majeſtie, the preſervati<g ref="char:EOLhyphen"/>on of the People being the Supreme and Principal Law which God Almighty hath enjoined to all Princes,</p>
+               <p>I hold it more expedient to give place to the exerciſe of both Religions, than under pretence and ſhadow of them to ſuffer the Common Peace of your Subjects to be torn in pieces. What can wiſdome (Sir) adviſe you to do with theſe Separatiſts? Either they muſt be tolerated for a time, or they muſt altogether be removed, and that by Death or Ba<g ref="char:EOLhyphen"/>niſhment.</p>
+               <p>So ſoon as a Prince beginneth to Spoyl, Baniſh, Kill, Burn his People, for matters abſtract from ſenſe, and altogether ſpiritual, he becommeth, as it were, a plague unto them.</p>
+               <p>It is an Errour of State in a Prince, for an o<g ref="char:EOLhyphen"/>pinion of Piety, to condemn to Death the Adherers to new Doctrine: For, the conſtancy and patience of thoſe who voluntarily ſuffer all temporal Miſe<g ref="char:EOLhyphen"/>ries, and Death it ſelf, for matters of Faith, ſtir up and invite numbers, who at firſt, and before they had ſuffered, were ignorant of their Faith and Doctrine, not onely to favour their Cauſe, but to imbrace their opinions, Pitty and Commiſerati<g ref="char:EOLhyphen"/>on opening the gates. Thus their Belief ſpread<g ref="char:EOLhyphen"/>eth it ſelf abroad, and their number dayly en<g ref="char:EOLhyphen"/>creaſeth.</p>
+               <p>It is no leſs Errour of State to baniſh them.
+<pb n="13" facs="tcp:111218:8"/>Baniſhed men are ſo many Enemies abroad, rea<g ref="char:EOLhyphen"/>dy upon all occaſions to invade their Native Coun<g ref="char:EOLhyphen"/>trey, to trouble the Peace and Tranquillity of your Kingdome.</p>
+               <p>To take Arms againſt Sectaries and Separatiſts will be a great Enterprize, a matter hard, and of many dangers; Religion cannot be preached by arms; the firſt Chriſtians deteſted that form of proceedings; Force and Compulſion may bring forth Hypocrites, not true Chriſtians. If there be any Hereſie amongſt your People, this wound is in the Soul; our Souls be<g ref="char:EOLhyphen"/>ing ſpiritual Subſtances, upon which fire and Iron can<g ref="char:EOLhyphen"/>not work, They muſt be overcome by ſpiritual Arms; Love the men, and pitty their Errours.</p>
+               <p>Who can lay upon a man a neceſsity to believe that which he will not believe, or what he will believe, or doth believe, not to believe? No Prince hath ſuch pow<g ref="char:EOLhyphen"/>wer over the Souls and thoughts of men, as he hath over their bodies. Now to ruine and extirpate all thoſe Sectaries, what will it prove elſe than to cut off one of your arms, to the great prejudice of your King<g ref="char:EOLhyphen"/>dom, and weakning of the State, they daily increaſing in number, and no man being ſo miſerable and mean but he is a member of the State?</p>
+               <p>The more eaſie manner, and nobler way, were to to<g ref="char:EOLhyphen"/>lerate both Religions, and grant a Place to two Chur<g ref="char:EOLhyphen"/>ches in the Kingdom, till it ſhall pleaſe Almighty God to return the minds of your Subjects, and turn them all of one will and opinion. Be content to keep that which ye may, Sir, ſince ye cannot that which ye would.</p>
+               <p>It is a falſe and erroneus opinion, That a Kingdom
+<pb n="14" facs="tcp:111218:9"/>cannot ſubſiſt, which tolerateth two Religions. Di<g ref="char:EOLhyphen"/>verſity of Religion ſhutteth not up Society, nor barreth civil converſation among men; a little time will make perſons of different Religions contract ſuch acquain<g ref="char:EOLhyphen"/>tance, cuſtom, familiarity together, that they will be intermixt in one City, Family, yea, Mariage Bed, State and Religion, having nothing common.</p>
+               <p>Why (I pray) may not two Religions be ſuffered in a State (till by ſome ſweet and eaſie means they may be reduced to a right Government) ſince in the Church (which ſhould be union it ſelf, and of which the Ro<g ref="char:EOLhyphen"/>man Church much vaunteth) almoſt infinite Sects, and kinds of Moncks are ſuffered, differing in their Laws, Rules of Government, faſhions of living, dy<g ref="char:EOLhyphen"/>et, apparel, maintenance, and opinions of perfecti<g ref="char:EOLhyphen"/>on, and who ſequeſter themſelves from our publick u<g ref="char:EOLhyphen"/>nion? The <hi>Roman</hi> Empire had its extenſion, not by ſimilitude and likeneſs of Religion. Different Religi<g ref="char:EOLhyphen"/>ons, providing they enterprize nor practiſe nothing a<g ref="char:EOLhyphen"/>gainſt the Politick Laws of the Kingdom, may be to<g ref="char:EOLhyphen"/>lerated in a State.</p>
+               <p>The Murthers, Maſſacres, Battels which ariſe and are be like daily to increaſe amongſt Chriſtians, all which are undertaken for Religion, are a thouſand times more execrable, and be more open, plain, flat im<g ref="char:EOLhyphen"/>piety, than this Liberty of diverſity of Religions, with a quiet peace, can be unjuſt.</p>
+               <p>Foraſmuch as the greateſt part of thoſe who fleſh themſelves in blood and ſlaughter, and overturn by arms the peace of their neighbours (whom they ſhould love as themſelves) ſpoiling and ravaging like fami<g ref="char:EOLhyphen"/>ſhed
+<pb n="15" facs="tcp:111218:9"/>Lions, ſacrifice their Souls to the infernal powers, without further hopes or means of their ever recovering and coming back, when thoſe others are in ſome way of repentance.</p>
+               <p>In ſeeking Liberty of Religion, theſe men ſeek not to believe any thing that may come in their Brains; but to uſe Religion according to the firſt Chriſtian In<g ref="char:EOLhyphen"/>ſtitutions, ſerving God, and obeying the Laws under which they were born.</p>
+               <p>That Maxim ſo often repeated amongſt the Church-Men at <hi>Rome,</hi> That the Chaſe and following of He<g ref="char:EOLhyphen"/>reticks is more neceſſary than that of Infidels, is well applyed for the enlarging and increaſing the Domini<g ref="char:EOLhyphen"/>ons, soveraignity and Power of the Pope, but not for the amplifying and extending of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and the weal and benefit of the Chriſtian Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+               <p>Kingdoms and Soveraignities ſhould not be gover<g ref="char:EOLhyphen"/>ned by the Laws and Intereſts of Prieſts and Church-Men, but according to the exigency, need, and as the Caſe requireth, of the Publick weal, which often is ne<g ref="char:EOLhyphen"/>ceſſitated to paſs and tolerate ſome defects and faults. It is the duty of all Chriſtian Princes to endeavour, and take pains, that their Subjects imbrace the true faith, as that ſemblably and in even parts they obſerve all Gods Commandments, and not more one Com<g ref="char:EOLhyphen"/>mandment than another.</p>
+               <p>Notwithſtanding, when a Vice cannot be extirpate and taken away, without the ruine of the State, it would appear to humane Judgments, that it ſhould be ſuffered. Neither is there a greater obligation, bond, ne<g ref="char:EOLhyphen"/>ceſsity
+<pb n="16" facs="tcp:111218:10"/>of Law, to puniſh Hereticks more than Forni<g ref="char:EOLhyphen"/>cators, which yet for the peace and tranquillity of the State are tolerated and paſt over. Neither can a grea<g ref="char:EOLhyphen"/>ter inconvenience and harm follow, if we ſhould ſuffer men to live in our Commonwealth, who believe not, nor imbrace not all our Opinions. In an Eſtate many things are for the time tolerated, becauſe they cannot, without the total ruin of the State, be ſuddenly amen<g ref="char:EOLhyphen"/>ded and reformed.</p>
+               <p>Theſe men are of that ſame nature and condition of which we are; they worſhip, as we do, one God; they be<g ref="char:EOLhyphen"/>lieve thoſe very ſame holy Records; we both aim at Salvation; We both fear to offend God; we both ſet be<g ref="char:EOLhyphen"/>fore us our happineſs: The difference between them and us hangeth upon this one point, that they, having found abuſes in our Church, require a Reformation. Now ſhall it be ſaid, for that we run divers waies to one end, underſtand not rightly others Language, we ſhall purſue others with Fire and Sword, and extirpate o<g ref="char:EOLhyphen"/>thers from the Face of the Earth? God is not in the bitter diviſion and alienation of affections, nor the ra<g ref="char:EOLhyphen"/>ging flames of ſedition, nor in the tempeſts of the tur<g ref="char:EOLhyphen"/>bulent whirlwinds of contradictions and diſputations, but in the calm and gentle breathings of peace and con<g ref="char:EOLhyphen"/>cord. If any wander out of the High-way, we bring him to it again; If any be in darkneſs, we ſhew him light, and kill him not. In Muſical Inſtruments, if a ſtring jar and be out of tune, we do not frettingly break it, but leaſurely veer it about to a Concord: and ſhall we be ſo churliſh, cruel, uncharitable, ſo wedded to our own Superſtitious opinions, that we will barbarouſly
+<pb n="17" facs="tcp:111218:10"/>baniſh, kill, burn, thoſe whom by Love and Sweetneſs we might readily win and recall again?</p>
+               <p>Let us win and merit of theſe men by reaſon, let them be cited to a free Council; it may be they ſhall not be proved Hereticks, neither that they maintain opini<g ref="char:EOLhyphen"/>ons condemned by the antient Councils, let their Reli<g ref="char:EOLhyphen"/>gion be compared and paralell'd with the Religion of the firſt age of the Church.</p>
+               <p>Shall we hold this People worſe than the Jews, which yet have their Synagogues at <hi>Rome</hi> it ſelf? let them receive inſtructions from a free and lawful Council, and forſake their errors when they ſhall be clearly and fairly demonſtrated unto them. Hereſie is an errour in the fundamental grounds of Religion, Schiſm inten<g ref="char:EOLhyphen"/>deth a reſolution in ſeparation: Let a good Council be convocated, and ſee if they be ready or not to reunite themſelves to us.</p>
+               <p>That which they believe is not evil, but to ſome it will appear they believe not enough, and that there is in them rather a defect of good, than any habit of evil. Other points when they ſhall be conſidered ſhall be found to conſiſt in external Ceremonies of the Church, ra<g ref="char:EOLhyphen"/>ther than in ſubſtance of doctrine, or what is eſſential to Chriſtianity. Theſe men ſhould be judged be<g ref="char:EOLhyphen"/>fore condemned, and they ſhould be heard before they be judged, which being holily and uprightly done, we ſhall find it is not our Religions, but our private inte<g ref="char:EOLhyphen"/>reſts and paſsions, which trouble us and our State.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs. MDCLIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
